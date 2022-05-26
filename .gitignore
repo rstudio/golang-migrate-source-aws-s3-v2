@@ -1,0 +1,7 @@
+*.a
+*.log
+*.o
+*.out
+*.so
+*env
+*envrc
